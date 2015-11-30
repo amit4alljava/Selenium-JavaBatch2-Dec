@@ -1,0 +1,20 @@
+Sequential Programs
+
+1. WAP swap 2 numbers 
+Hint : Use the third Variable
+
+2.  WAP Swap 2 numbers and with out 3rd Variable
+
+3.  WAP to calculate the Simple Interest 
+P , R , T  
+SI = P * R * T / 100
+
+Decision Making Program
+1. WAP to check on 4 Numbers which one is greater
+
+2. Print the Result on the Basis of Percentage
+>90 Print A Grade
+90 to 80 B Grade
+80 to 70 C Grade
+70 to 60 D Grade
+<60 F Grade
