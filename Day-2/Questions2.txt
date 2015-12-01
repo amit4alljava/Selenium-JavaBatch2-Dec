@@ -1,0 +1,10 @@
+Q1. Take a Number as Input from User and then print the Table of the number
+2 * 1  = 2
+2 * 2  = 4
+
+Q2. Add the Sum of n numbers
+take n as input
+1 , 10
+1 + 2 + 3  + 4 .... +10
+
+Q3. Count Even Numbers and Odd Numbers b/w 1 to 100 
