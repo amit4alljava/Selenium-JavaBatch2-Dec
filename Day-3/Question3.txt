@@ -1,0 +1,14 @@
+Create Student Class
+rollno
+name
+course
+3 subject marks
+
+take the values from Scanner (rollno, name, course , 3 subject marks)
+ compute total marks
+compute percentage and print Grade
+>90 A
+90 to 80 B 
+80 to 70 C
+70 to 60 D
+F
