@@ -1,0 +1,21 @@
+interface IPlayer
+{
+public default void jump(){
+}
+
+void run();
+}
+
+class RedPlayer implements IPlayer
+{
+public void run(){}
+
+}
+
+
+class WhitePlayer implements IPlayer
+{
+
+public void run(){}
+
+}
