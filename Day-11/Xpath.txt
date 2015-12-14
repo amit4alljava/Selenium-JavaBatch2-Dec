@@ -1,0 +1,8 @@
+When no id , name , class
+
+XML 
+to Traverse the XML , we use Xpath
+HTML is a subset of an XML
+to Traverse an HTML we also Xpath
+
+FirePath- It is plugin in Firefox and it is used to generate the Xpath

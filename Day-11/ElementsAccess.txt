@@ -1,0 +1,13 @@
+In Html U can Access any Element BY
+a) Id - Always Unique
+b) Name - It is used to group the elements or send the data to the server
+
+Userid - 
+Ajax Calls
+<input type="text" id="userid"/>
+
+Submit the Value to the Server (Traditional Way)
+<input type ="text" name="userid"/>
+
+c) class/css - it is actually used by the designers.
+d) xpath- If id , name,css / class is missing then use xpath

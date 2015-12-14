@@ -1,0 +1,13 @@
+Selenium IDE
+Record and Play Approach
+
+http://www.seleniumhq.org/download/
+2.9.0 
+Ctrl + Alt + S
+
+TestSuite - It contains multiple Test Cases.
+TestCase ---> Includes the Steps u will done in a website
+TestSteps is made up of 3 things
+Command         Target                                               Value
+open                http://www.facebook.com
+type                 

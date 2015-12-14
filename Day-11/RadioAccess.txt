@@ -1,0 +1,19 @@
+<form name="findflight"> 
+             
+ <input name="tripType" value="roundtrip" checked="" type="radio">
+Round Trip &nbsp;
+ 
+              <input name="tripType" value="oneway" type="radio">
+ One Way
+
+</form>
+
+document.findflight.tripType[0]
+document.findflight.tripType[1]
+
+regexpi:[a-z]{3}[0-9]+
+regexp: [Aa]mit[0-9]+
+
+regexp: [A-Za-z]{3}[0-9]+
+
+amit3232
